@@ -1,0 +1,133 @@
+---
+title: "Física de la Radioterapia"
+subtitle: "Máster de Física Biomédica.<br>Guía del curso y recursos disponibles"
+format: 
+  clean-revealjs:
+    logo: images/LogoUCM.jpg
+    footer: "Presentación de la asignatura Física de la Radioterapia"
+    css: styles.css
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: César Rodríguez Rodríguez
+    email: cesaro02@ucm.es
+    affiliations: Profesor Asociado del Departamento de Radiología, Rehabilitación y Fisioterapia.<br>
+        Radiofísico del Hospital Universitario de Fuenlabrada.
+---
+
+## Estructura y objetivos de la asignatura{.smaller}
+
+#### Bloque 1: Introducción
+- Explicar los fundamentos físicos y biológicos de las aplicaciones terapéuticas de las radiaciones ionizantes.
+- Describir las diversas técnicas de radioterapia.
+
+#### Bloque 2: Detección
+- Explicar los equipos y las técnicas utilizadas para la medida de la dosis.
+
+#### Bloque 3: Comisionado
+- Describir los aparatos empleados para producir radiaciones aplicadas en teleterapia.
+- Explicar cómo se calibran y caracterizan los haces terapéuticos.
+
+---
+
+## {.smaller} 
+
+#### Bloque 4 y 5: Cálculo de dosis y planificación
+- Explicar cómo se calcula la distribución de dosis en los pacientes tratados.
+
+#### Bloque 6: Braquiterapia
+- Explicar las técnicas de braquiterapia y describir los equipos y las fuentes empleadas.
+
+---
+
+## {.smaller} 
+### Competencias
+#### Básicas
+
+**CB7** - Saber aplicar los conocimientos adquiridos y su capacidad de resolución de problemas en entornos nuevos o poco conocidos dentro de contextos más amplios (o multidisciplinares) relacionados con su área de estudio.
+
+**CB8** - Ser capaces de integrar conocimientos y enfrentarse a la complejidad de formular juicios a partir de una información que, siendo incompleta o limitada, incluya reflexiones sobre las responsabilidades sociales y éticas vinculadas a la aplicación de sus conocimientos y juicios.
+
+**CB9** - Ser capaz de comunicar conclusiones y conocimientos y razones últimas que las sustentan a públicos especializados y no especializados de un modo claro y sin ambigüedades.
+
+---
+
+## {.smaller}
+#### Específicas
+
+**CE8** - Adquirir los conocimientos necesarios para evaluar las capacidades de la instrumentación biomédica avanzada y su aplicabilidad en entornos científicos o altamente especializados.
+
+**CE9** - Adquirir la capacidad para analizar señales biomédicas con técnicas avanzadas.
+
+**CE13** - Adquirir conocimientos avanzados de los procesos de interacción de las radiaciones ionizantes con la materia y ser capaz de aplicarlos en entornos de investigación y/o clínicos.
+
+**CE14** - Dominar las técnicas experimentales avanzadas para la medida de la dosis de radiaciones ionizantes y su aplicación en el área de la Radiofísica Hospitalaria.
+
+**CE15** - Aplicar las técnicas de Monte Carlo para la determinación de la dosis de radiaciones ionizantes.
+
+**CE16** - Capacidad para determinar y evaluar, en un contexto multidisciplinar, los efectos de las radiaciones ionizantes sobre los tejidos biológicos.
+
+---
+
+## Desarrollo del curso
+
+- Clases teóricas y cuestionarios.
+- Seminarios 
+  - Trabajo en común en clase sobre un problema propuesto: cuadernos [*Colab*]{.alert}
+  - Interpretación *individual* y *diferida* de resultados.
+- Trabajo práctico en el hospital mediante:
+  - Visitas **in situ**.
+  - Conexión **remota** desde el aula.
+- Preparación y exposición de temas propuestos.
+
+---
+
+## Bibliografía{.smaller}
+
+- **Hendee, W.R.:** Radiation therapy physics.
+- **Khan, Faiz M.:** The physics of radiation therapy.
+- **SEFM:** Fundamentos de Física Médica, vols 1 y 3.
+- **OIEA:** Radiation Oncology Physics ([Acceso web](http://www-pub.iaea.org/MTCD/publications/PDF/Pub1196_web.pdf)).
+- **Attix, F.H.:** Introduction to radiological physics and radiation dosimetry.
+- **Paganeti, H.:** Proton Therapy Physics, Second Edition.
+    
+- **Galle, P. y Paulin R.:** Biofísica. Radiobiología y Radiopatología.
+- **Mayles, P., Nahum, A.E., Rosenwald, J-C.:** Handbook of radiotherapy physics: theory and practice.
+- **Jayaraman, S., Lanzl, L.H.:** Clinical Radiotherapy Physics.
+- **Huang, H.K.:** PACS-Based Multimedia Imaging Informatics.
+
+---
+
+## {.smaller}
+#### Otros recursos
+
+- **Revistas:**
+  - Medical Physics.
+  - Physics in Medicine and Biology.
+  - Physica Medica.
+  - British Journal of Radiology.
+  - Revista de Física Médica.
+- **Enlaces útiles:**
+  - [SEFM](http://www.sefm.es)
+  - [AAPM](http://www.aapm.org)
+  - [EFOMP](http://www.efomp.org)
+  - [IAEA](http://www-naweb.iaea.org/nahu/arbr/default.shtm)
+  - [Radiation Physics](http://www.radiationphysics.com)
+  - [NIST](https://physics.nist.gov/PhysRefData/XrayMassCoef/cover.html)
+
+---
+
+## Calificación
+
+- **Peso en la nota final:**
+  - 3/10: Problemas propuestos y prácticas.
+  - 2/10: Presentación del trabajo.
+  - 5/10: Examen final.
+
+---
+
+## Distribución de calificaciones
+
+#### Datos de los cursos 21/22, 22/23 y 23/24:
+![](images/distribucion_calificaciones_21_24.png){ fig-align="center" }
