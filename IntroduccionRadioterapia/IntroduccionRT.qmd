@@ -3,6 +3,7 @@ title: "Introducción a la Radioterapia"
 subtitle: Física de la Radioterapia. Máster de Física Biomédica
 format: 
   clean-revealjs:
+    chalkboard: true
     logo: images/LogoUCM.jpg
     footer: "Introducción a la Radioterapia. Física de la Radioterapia"
 html-math-method:
